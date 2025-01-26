@@ -1,6 +1,6 @@
 # Biostar-Lab
 
-Welcome to **Biostar-Lab**! "\U1F680" This repository is my personal learning space for bioinformatics, inspired by the *Biostar Handbook*. Each chapter in the book is represented as a folder in this repository, containing notes, scripts, and exercises as I progress through the material.
+Welcome to **Biostar-Lab**! 🚀 This repository is my personal learning space for bioinformatics, inspired by the *Biostar Handbook*. Each chapter in the book is represented as a folder in this repository, containing notes, scripts, and exercises as I progress through the material.
 
 ## Repository Structure
 
